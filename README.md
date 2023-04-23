@@ -1,4 +1,4 @@
-# Spraklet
+# Sparklet
 
 [![crate::sparklet-cli](
 https://img.shields.io/crates/v/sparklet-cli?label=sparklet-cli)](
