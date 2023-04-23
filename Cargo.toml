@@ -1,0 +1,9 @@
+[workspace]
+members = [
+  "src/sparklet",
+  "src/sparklet-cli",
+  "src/sparklet-tui",
+]
+
+[profile.release]
+panic = "abort"

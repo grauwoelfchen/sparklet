@@ -1,0 +1,26 @@
+[package]
+version = "0.1.0"
+name = "sparklet"
+authors = ["Yasuhiro Яша Asaka <yasuhiro.asaka@grauwoelfchen.net>"]
+description = ""
+repository = "https://gitlab.com/grauwoelfchen/sparklet"
+homepage = "https://gitlab.com/grauwoelfchen/sparklet"
+documentation = "https://gitlab.com/grauwoelfchen/sparklet"
+license = "Apache-2.0"
+readme = "README.md"
+categories = ["command-line-interface", "text-processing"]
+keywords = ["text"]
+edition = "2021"
+exclude = []
+
+[badges]
+gitlab = { repository = "grauwoelfchen/sparklet", branch = "trunk" }
+
+[lib]
+name = "sparklet"
+path = "src/lib.rs"
+
+[dev-dependencies.cargo-husky]
+version = "1"
+default-features = false
+features = ["user-hooks"]
