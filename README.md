@@ -1,5 +1,13 @@
 # Spraklet
 
+[![crate::sparklet-cli](
+https://img.shields.io/crates/v/sparklet-cli?label=sparklet-cli)](
+https://crates.io/crates/sparklet-cli) [![crate::sparklet-tui](
+https://img.shields.io/crates/v/sparklet-tui?label=sparklet-tui)](
+https://crates.io/crates/sparklet-tui) [![crate::sparklet](
+https://img.shields.io/crates/v/sparklet?label=sparklet)](
+https://crates.io/crates/sparklet)
+
 A yet another small flashcards library and CLI/TUI applications.
 
 
