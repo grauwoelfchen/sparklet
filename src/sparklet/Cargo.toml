@@ -1,5 +1,5 @@
 [package]
-version = "0.1.0"
+version = "0.1.1"
 name = "sparklet"
 authors = ["Yasuhiro Яша Asaka <yasuhiro.asaka@grauwoelfchen.net>"]
 description = "A yet another small flashcards library"
