@@ -2,7 +2,7 @@
 version = "0.1.0"
 name = "sparklet-cli"
 authors = ["Yasuhiro Яша Asaka <yasuhiro.asaka@grauwoelfchen.net>"]
-description = ""
+description = "A CLI of sparklet"
 repository = "https://gitlab.com/grauwoelfchen/sparklet"
 homepage = "https://gitlab.com/grauwoelfchen/sparklet"
 documentation = "https://gitlab.com/grauwoelfchen/sparklet"
