@@ -462,6 +462,7 @@ dependencies = [
  "cargo-husky",
  "pancurses",
  "predicates",
+ "sparklet",
 ]
 
 [[package]]

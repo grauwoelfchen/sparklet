@@ -3,6 +3,14 @@
 The TUI of [Sparklet](https://crates.io/crates/sparklet).
 
 
+## Usage
+
+```zsh
+% sparklet-tui
+% SPARKLET_CONFIG_DIR=/tmp sparklet-tui
+```
+
+
 ## License
 
 `Apache-2.0`
