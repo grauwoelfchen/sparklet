@@ -1,0 +1,21 @@
+[set]
+title = "Cockney Rhyming Slang Words"
+description = """
+Rhyming slang from the east end of London / Bow Bells church
+"""
+
+[[cards]]
+term = "Apples and Pears"
+definition = "stairs"
+
+[[cards]]
+term = "Ruby Murray"
+definition = "curry"
+
+[[cards]]
+term = "Plates of meat"
+definition = "feet"
+
+[[cards]]
+term = "Sky Rocket"
+definition = "pocket"
